@@ -1,0 +1,12 @@
+Captions:
+a large group of people on a beach
+a cartoon of a red and white striped object
+a cartoon of people on a beach
+
+Read Lines:
+Line 0: '...' with confidence 0.87
+Line 1: 'ICE CREAM' with confidence 0.71
+Line 2: '0' with confidence 0.62
+
+Full Text:
+... ICE CREAM 0 

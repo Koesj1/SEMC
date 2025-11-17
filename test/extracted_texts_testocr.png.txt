@@ -1,0 +1,17 @@
+Captions:
+a black text on a white background
+a black text on a white background
+a black text on a white background
+
+Read Lines:
+Line 0: 'This is a lot of 12 point text to test the' with confidence 1.0
+Line 1: 'ocr code and see if it works on all types' with confidence 1.0
+Line 2: 'of file format.' with confidence 0.99
+Line 3: 'The quick brown dog jumped over the' with confidence 1.0
+Line 4: 'lazy fox. The quick brown dog jumped' with confidence 0.99
+Line 5: 'over the lazy fox. The quick brown dog' with confidence 0.99
+Line 6: 'jumped over the lazy fox. The quick' with confidence 0.99
+Line 7: 'brown dog jumped over the lazy fox.' with confidence 1.0
+
+Full Text:
+This is a lot of 12 point text to test the ocr code and see if it works on all types of file format. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. 

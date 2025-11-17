@@ -1,0 +1,28 @@
+Captions:
+a black and white text on a black background
+a black and white text on a black background
+
+Read Lines:
+Line 0: 'early and taking effective corrective actions. If a project gets too far out of' with confidence 0.97
+Line 1: 'control, it may be difficult to achieve the project objective without sacrificing' with confidence 0.98
+Line 2: 'the scope, budget, schedule, or quality.' with confidence 0.99
+Line 3: 'Throughout a project, some activities will be completed on time, some will' with confidence 0.99
+Line 4: 'be finished ahead of schedule, and others will be finished later than scheduled.' with confidence 0.97
+Line 5: 'Actual progress-whether faster or slower than planned --- will have an effect on' with confidence 0.93
+Line 6: 'the schedule of the remaining, uncompleted activities of the project. Specifically,' with confidence 0.97
+Line 7: 'the actual finish times (AFs) of completed activities will determine the earliest' with confidence 0.95
+Line 8: 'start and earliest finish times for the remaining activities in the network diagram,' with confidence 0.95
+Line 9: 'as well as the total slack.' with confidence 0.98
+Line 10: 'Throughout a project, changes may occur that have an impact on the' with confidence 0.96
+Line 11: 'schedule. These changes might be initiated by the customer or the project team,' with confidence 0.99
+Line 12: 'or they might be the result of an unanticipated occurrence. Any type of' with confidence 0.99
+Line 13: 'change-whether initiated by the customer, the contractor, the project man-' with confidence 0.99
+Line 14: 'ager, a team member, or an unanticipated event -- will require a modification to' with confidence 0.96
+Line 15: 'the plan in terms of scope, budget, and/or schedule. When such changes are' with confidence 0.97
+Line 16: 'agreed upon, a new baseline plan is established and used as the benchmark' with confidence 0.99
+Line 17: 'against which actual project performance will be compared.' with confidence 0.94
+Line 18: 'Once data have been collected on the actual finish times of completed' with confidence 0.95
+Line 19: 'activities and the effects of any project changes, an updated project schedule' with confidence 0.93
+
+Full Text:
+early and taking effective corrective actions. If a project gets too far out of control, it may be difficult to achieve the project objective without sacrificing the scope, budget, schedule, or quality. Throughout a project, some activities will be completed on time, some will be finished ahead of schedule, and others will be finished later than scheduled. Actual progress-whether faster or slower than planned --- will have an effect on the schedule of the remaining, uncompleted activities of the project. Specifically, the actual finish times (AFs) of completed activities will determine the earliest start and earliest finish times for the remaining activities in the network diagram, as well as the total slack. Throughout a project, changes may occur that have an impact on the schedule. These changes might be initiated by the customer or the project team, or they might be the result of an unanticipated occurrence. Any type of change-whether initiated by the customer, the contractor, the project man- ager, a team member, or an unanticipated event -- will require a modification to the plan in terms of scope, budget, and/or schedule. When such changes are agreed upon, a new baseline plan is established and used as the benchmark against which actual project performance will be compared. Once data have been collected on the actual finish times of completed activities and the effects of any project changes, an updated project schedule 

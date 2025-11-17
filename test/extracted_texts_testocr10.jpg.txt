@@ -1,0 +1,46 @@
+Captions:
+a newspaper with a picture of a car and people
+a close-up of a car
+a blurry image of a person
+
+Read Lines:
+Line 0: 'THE OLDEST DAILY NEWSPAPER IN THE UNITED STATES-FOUNDED (771' with confidence 0.78
+Line 1: 'The Philadelphia Inquirer' with confidence 0.79
+Line 2: 'FINAL' with confidence 0.99
+Line 3: '------' with confidence 0.58
+Line 4: 'PUBLIC LEDGER' with confidence 0.99
+Line 5: 'CITY EDITION' with confidence 0.99
+Line 6: 'AN INDEPENDENT NEWSPAPER FOR ALL THE PEOPLE' with confidence 0.66
+Line 7: '------' with confidence 0.91
+Line 8: '--------' with confidence 0.47
+Line 9: 'KENNEDY SHOT TO DEATH' with confidence 1.0
+Line 10: 'Johnson Is Sworn In as President' with confidence 0.98
+Line 11: 'Asks Support' with confidence 0.93
+Line 12: 'Murder Charged' with confidence 0.99
+Line 13: 'Of Nation,' with confidence 0.9
+Line 14: 'To Pro-Russian' with confidence 0.99
+Line 15: 'Divine Help' with confidence 0.99
+Line 16: 'Seized in Theater' with confidence 1.0
+Line 17: 'De ROBERT BARKDOLL' with confidence 0.44
+Line 18: 'By FRANK CORMIER' with confidence 0.96
+Line 19: 'WASHINGTON. Nov. =' with confidence 0.43
+Line 20: 'DALLAS, Tex., Nov, 22 (AP)' with confidence 0.82
+Line 21: 'atomd lhe tardess at the' with confidence 0.35
+Line 22: 'Gunman assassinated President Ker' with confidence 0.68
+Line 23: 'from ambush Friday with a high-po' with confidence 0.76
+Line 24: 'Tebing boer In the dark stad' with confidence 0.53
+Line 25: 'rifle. Nearly 12 hours later, a 34-ye' with confidence 0.72
+Line 26: 'man who professed love for Bass' with confidence 0.7
+Line 27: 'charged with murder.' with confidence 0.86
+Line 28: 'divine hdp n/ God' with confidence 0.38
+Line 29: 'The charge was filed agal' with confidence 0.83
+Line 30: 'Harvey Oswald, 21, Officers xal' with confidence 0.86
+Line 31: 'the man who hid en the fifth' with confidence 0.94
+Line 32: 'E OF SUPPORT' with confidence 0.58
+Line 33: 'textbook warehouse and sn' with confidence 0.68
+Line 34: 'three quick shots that killed' with confidence 0.89
+Line 35: 'tisam support from Con' with confidence 0.51
+Line 36: 'meat and wounded Gon John' with confidence 0.48
+
+Full Text:
+THE OLDEST DAILY NEWSPAPER IN THE UNITED STATES-FOUNDED (771 The Philadelphia Inquirer FINAL ------ PUBLIC LEDGER CITY EDITION AN INDEPENDENT NEWSPAPER FOR ALL THE PEOPLE ------ -------- KENNEDY SHOT TO DEATH Johnson Is Sworn In as President Asks Support Murder Charged Of Nation, To Pro-Russian Divine Help Seized in Theater De ROBERT BARKDOLL By FRANK CORMIER WASHINGTON. Nov. = DALLAS, Tex., Nov, 22 (AP) atomd lhe tardess at the Gunman assassinated President Ker from ambush Friday with a high-po Tebing boer In the dark stad rifle. Nearly 12 hours later, a 34-ye man who professed love for Bass charged with murder. divine hdp n/ God The charge was filed agal Harvey Oswald, 21, Officers xal the man who hid en the fifth E OF SUPPORT textbook warehouse and sn three quick shots that killed tisam support from Con meat and wounded Gon John 
